@@ -1,3 +1,5 @@
+(# Not part of the document: Employees are listed by their ID, name, salary, department, position, and year.) 
+
 782390
 Sora
 $50.00
