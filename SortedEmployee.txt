@@ -1,0 +1,30 @@
+Id: 990011
+Name: Goofy
+Salary: $100.0
+Department: Finance
+Position: Financial Analyst
+Year: 7
+Id: 782390
+Name: Sora
+Salary: $50.0
+Department: Human Resources
+Position: HR Specialist
+Year: 3
+Id: 774466
+Name: Kairi
+Salary: $60.0
+Department: Marketing
+Position: Marketing Director
+Year: 2
+Id: 702938
+Name: Riku
+Salary: $70.0
+Department: Information Technology
+Position: Software Engineer
+Year: 4
+Id: 334455
+Name: Donald
+Salary: $120.0
+Department: Administrative
+Position: Office Manager
+Year: 8
