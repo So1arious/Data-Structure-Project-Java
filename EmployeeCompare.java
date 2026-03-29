@@ -1,4 +1,4 @@
-public class Employee
+public class EmployeeCompare implements Comparable<EmployeeCompare>
 {
   //Data types
   private int id;
@@ -9,7 +9,7 @@ public class Employee
   private int year;
 
   //Initialization
-  public Employee()
+  public EmployeeCompare()
   {
     id = 0;
     name = " ";
@@ -19,7 +19,7 @@ public class Employee
     year = 0;
   }
 
-  public Employee(int i, String n, double s, String d, String p, int y)
+  public EmployeeCompare(int i, String n, double s, String d, String p, int y)
   {
     id = i;
     name = n;
@@ -56,4 +56,12 @@ public String getPosition()
   { return position; } 
 public int getYear()
   { return year; }
+
+
+//For MaxHeap
+public int compare(EmployeeCompare other)
+  {
+    String str = "id: " + id + "\nName: " + name + "\nSalary: $" + salary + "\nDepartment: " + department + "\nPosition: " + position + "\nYear: " + year;
+    return str;
+  }
 }
