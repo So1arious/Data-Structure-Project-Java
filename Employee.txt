@@ -1,0 +1,30 @@
+782390
+Sora
+$50.00
+Human Resources
+HR Specialist
+3
+102938
+Riku
+$70.00
+Information Technology
+Software Engineer
+4
+774466
+Kairi
+$60.00
+Marketing
+Marketing Director
+2
+334455
+Donald
+$120.00
+Administrative
+Office Manager
+8
+990011
+Goofy
+100.00
+Finance
+Financial Analyst
+7
